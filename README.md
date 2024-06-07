@@ -1,44 +1,25 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8002&height=180&text=FOOD114&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=dbb6f0&height=180&text=처음처럼&animation=&fontColor=cb78fa&fontSize=50" />
     </div>
-    
-<div align="center">
-    <img src="https://github.com/dlehdwo01/TeamProject1-FOOD114/assets/153072974/b841dedd-0e14-4cf8-9cd1-1459a6ebdb2e" style="width:600px;">
-    </div> 
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;" align="center">  
-    <a href='http://3.38.73.131:8080/food114.do'> FOOD114 시연 사이트 클릭</a>
-    <div><h4>시연 계정 </h4></div>
-    <div>1. 고객</div>
-    <div>ID : test123</div>
-    <div>PW : 1234</div><br>
-    <div>2. 사업자</div>
-    <div>ID : hi123</div>
-    <div>PW : 1234qwer@@</div>
-    </div> 
 <div style= "text-align:left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💡 프로젝트 소개 </h2>
-    <li>FOOD114는 음식점들의 이벤트들을 소개해주어 바쁜 현대인들의 식비를 조금이라도 줄일 수 있는 기회를 드리는 웹사이트입니다.</li>
-    <li>고객이 주소를 지정하면 주변 이벤트들을 확인이 가능하며 희망하는 가게의 상품 주문이 가능합니다</li>
-    <li>지도를 이용하여 보다 편리하게 업체 조회가 가능합니다</li>
-    <li>업체에서는 본인의 가게를 등록하여 판매 상품 관리가 가능하고 이벤트를 등록하여 홍보효과도 기대 할 수 있습니다.</li>
+    <li>요즘 현대사회에서는 이혼이란 흔한일이 되어버렸지만, 돌싱이라는 수식어가 따라다닙니다.</li>
+    <li>또한, 이혼사유는 다양하고 새로운 만남이 두려운 사람들도 있습니다.</li>
+    <li>그래서 저희 처음처럼은 돌싱들을 위한 진입장벽은 낮은 데이팅앱을 기획하였습니다.</li>
     </div>
     <div style= "text-align:left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗓 개발 기간 </h2>  
         <ul>
-            <li> <h4>02/22 ~ 02/28</h4>
+            <li> <h4>05/07 ~ 05/14</h4>
                 <ul>
                     <li>프로젝트 기획 회의(일별 2시간)</li>
                     <li>프로젝트 컨셉 및 DB 테이블 설계</li>
                 </ul>
             </li>
-            <li> <h4>03/01 ~ 03/17</h4>
+            <li> <h4>05/16 ~ 06/05</h4>
                 <ul>
-                    <li>프로젝트 개발 진행</li>                    
-                </ul>
-            </li>
-            <li> <h4>03/18 ~ 03/20</h4>
-                <ul>
-                    <li>각 페이지에서 개선할 점과 보완할 점 수정</li>                          
+                    <li>프로젝트 개발 진행</li>
+                    <li>테스트 및 보완</li>    
                 </ul>
             </li>
         </ul>
@@ -54,24 +35,20 @@
                 <th>GitHub 프로필</th>
             </tr>
             <tr>
-                <th>이동재</th>
+                <th>박경빈</th>
                 <td>https://github.com/dlehdwo01</td>
             </tr>
             <tr>
-                <td>김예지</td>
-                <td>https://github.com/vvyejivv</td>
+                <td>이동재</td>
+                <td>https://github.com/dlehdwo01</td>
             </tr>
             <tr>
-                <td>박승영</td>
-                <td>https://github.com/javagigig</td>
+                <td>목진홍</td>
+                <td>https://github.com/cemzzz</td>
             </tr>
             <tr>
-                <td>박경빈</td>
-                <td>https://github.com/Bin2been</td>
-            </tr>
-            <tr>
-                <td>이진순</td>
-                <td>https://github.com/lsssssssssssssss</td>
+                <td>김은석</td>
+                <td>https://github.com/eunseeeoking</td>
             </tr>
             </table>
         </div>
@@ -79,19 +56,15 @@
 
 <div style= "text-align:left;">
     <h2 style="color: #282d33;"> 🛠️ 사용 언어 </h2>
-    <div style="margin: 0 auto; text-align: left;" align= "left"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <div style="margin: 0 auto; text-align: left;" align= "left">
+          <img src="https://camo.githubusercontent.com/df7ab2a6c45b04e44de2c8641ef87cba4617625cd31935efb57721a4e0a351b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465">
+          <img src="https://camo.githubusercontent.com/2081d92c054dbf7eec9521ade73051ed66fb9ccffb53e33213585fbf23ec2d52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3031373543323f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465">
+          <img src="https://camo.githubusercontent.com/02579431c7ba615acfd1b1151a74eadbb69f6ba82a2597baf3c49d2d6bddf541/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465">
           </div>
     </div>
     <div style= "text-align:left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📕 발표 PPT </h2>  
-        <a href="https://docs.google.com/presentation/d/1F4bodDgNgG5s8ovWm_vM8CS3e3GtrGpu/edit?usp=sharing&ouid=117668902424628902239&rtpof=true&sd=true" target="_blank">▶FOOD114 발표 PPT</a>
+        <a href="https://docs.google.com/presentation/d/1c92O2ztKEji1J5F17VvwNEkgSYUmSAgn/edit#slide=id.p1" target="_blank">▶처음처럼 PPT</a>
        </div>          
     <div style= "text-align:left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎞 시연 영상 </h2>    
