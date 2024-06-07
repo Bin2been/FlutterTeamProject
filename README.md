@@ -71,7 +71,8 @@
             <h4>작업 페이지</h4>
                 <ul>                    
                     <li>메인화면, 라이크, 바텀네비게이션바(푸터), 앱바(헤더), 프로필 상세보기, 레이아웃 디자인</li>
-                </ul>           
+                </ul>    
+          <img src="https://private-user-images.githubusercontent.com/153140483/337575128-3a2b0aaa-455d-4ee8-8403-aaf2bed65365.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDcyNjYsIm5iZiI6MTcxNzc0Njk2NiwicGF0aCI6Ii8xNTMxNDA0ODMvMzM3NTc1MTI4LTNhMmIwYWFhLTQ1NWQtNGVlOC04NDAzLWFhZjJiZWQ2NTM2NS5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNzU2MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDVjMGRjMzBkNDMyNDJmOTk0ZmIxOTFlNWEwYmRhMDk0YmViOWRiYTU4ZTNkYjQwMDhmNGJjYzdhZWU2MGU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7fb8evEzs43glnZo7d_nArBF3dhgX4e28hQmH6BZ5x4">
         </ul>
         <ul>  
         <h3>😊김은석</h3>            
@@ -79,18 +80,21 @@
                 <ul>                    
                     <li>커뮤니티, 커뮤니티 게시글 작성, 게시글 상세보기, 커뮤니티 댓글 작성 및 조회</li>
                 </ul>           
+            <img src="https://private-user-images.githubusercontent.com/153140483/337575156-057b378f-2835-460a-bf86-aeb5ac8feea3.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDcyNjYsIm5iZiI6MTcxNzc0Njk2NiwicGF0aCI6Ii8xNTMxNDA0ODMvMzM3NTc1MTU2LTA1N2IzNzhmLTI4MzUtNDYwYS1iZjg2LWFlYjVhYzhmZWVhMy5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNzU2MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTdjMDM5ZmJlYjFkYWFiNWQyNjliOTNiYzQ1ZDVkYzNiMzkzYjc3NjYxMzQxZDc2MjYwNzUyNmFmZGQ0ZDFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ayP-gEwgFRUwLy_CmlRioFhb_6POn_YNFnh05j-JL0c">
         </ul>
         <ul>  
         <h3>😇이동재</h3>            
             <h4>작업 페이지</h4>
                 <ul>                    
                     <li>채팅목록, 채팅방, 프로필, 프로필수정+미리보기</li>
-                </ul>           
+                </ul> 
+            <img src="https://private-user-images.githubusercontent.com/153140483/337575113-a97ec8aa-5ac0-47e8-a7ad-2ab463bcf48a.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDcyNjYsIm5iZiI6MTcxNzc0Njk2NiwicGF0aCI6Ii8xNTMxNDA0ODMvMzM3NTc1MTEzLWE5N2VjOGFhLTVhYzAtNDdlOC1hN2FkLTJhYjQ2M2JjZjQ4YS5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNzU2MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OGU3OGJhNTAwNGMzNjhiN2EzMWJlNmVkMDgxYWZjZTlkMTYyZDU4YzhiZTA4MmY4M2Q3OGI0N2MwMjYxOGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7wgHMjz4DRww4JuvQh6txiiI2mLIYE-LZm47nVXmliU">
         </ul>
         <ul>  
         <h3>🙂목진홍</h3>            
             <h4>작업 페이지</h4>
                 <ul>                    
                     <li>시작페이지, 로그인+구글로그인, 회원가입+문자인증</li>
-                </ul>           
+                </ul>          
+            <img src="https://private-user-images.githubusercontent.com/153140483/337575051-0373271f-16e7-4b9a-a7c1-49ca1e7061b4.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NDcyNjYsIm5iZiI6MTcxNzc0Njk2NiwicGF0aCI6Ii8xNTMxNDA0ODMvMzM3NTc1MDUxLTAzNzMyNzFmLTE2ZTctNGI5YS1hN2MxLTQ5Y2ExZTcwNjFiNC5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QwNzU2MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZGRhNjMzYTVjNTM4YWE3Nzg0NmM1NDE2ZDRmYzhhNTFlOGYwMTQxYWYxZDQ3NWYwMTExMzAyODJlNjQ4OWY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.P5bNu48YEgNfZJZqowejpE5826vfWfgzKMP22WMXXWE">
         </ul>
